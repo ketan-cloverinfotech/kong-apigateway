@@ -1,10 +1,7 @@
 
 ## Rate-limiting in an API gateway:
 
-- **Protects servers from overload**
-  
-- **Blocks abuse and hacking**
-  
-- **Makes things fair for everyone**
-  
-- **Helps save money**
+1.  **Protects servers from overload**
+2.  **Blocks abuse and hacking**
+3.  **Makes things fair for everyone**  
+4.  **Helps save money**
